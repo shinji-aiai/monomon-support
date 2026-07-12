@@ -54,4 +54,4 @@ Monomon サポート
 
 Monomon
 
-© 2026 Shinji
+© 2026 Monomon
